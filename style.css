@@ -933,7 +933,7 @@ ul   { list-style: none; }
 .cta-band {
   position: relative;
   padding-top:    var(--sy);
-  padding-bottom: var(--sy);
+  /* padding-bottom: var(--sy); */
   background: var(--accent);
   color: var(--bg-cream);
   text-align: center;
@@ -965,7 +965,7 @@ ul   { list-style: none; }
   width: 300px;
   max-width: 60%;
   height: auto;
-  margin: 56px auto 0;
+  margin: 0 auto 0;
   position: relative;
 }
 
