@@ -960,6 +960,14 @@ ul   { list-style: none; }
 .cta-band p { font-size: var(--t-md); color: rgba(253,248,244,.76); max-width: 520px; margin: 0 auto 48px; line-height: 1.55; font-weight: 300; }
 .cta-band .btn       { background: var(--bg-cream); color: var(--ink-deep); }
 .cta-band .btn:hover { background: #f0e6de; }
+.cta-band-logo {
+  display: block;
+  width: 300px;
+  max-width: 60%;
+  height: auto;
+  margin: 56px auto 0;
+  position: relative;
+}
 
 /* ============================================================
    MENTIONS LÉGALES
